@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinChess">
+</Property><Property Name="Solution File" Value="D:\Files\FOSSProjects\XO\WinChess.sln">
+</Property><Property Name="User Options File" Value="D:\Files\FOSSProjects\XO\WinChess.suo">
+</Property><Property Name="Date" Value="Thursday, April 21, 2011">
+</Property><Property Name="Time" Value="14:50 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WinChess.sln" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\WinChess.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WinChess.suo" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\WinChess.suo">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="WinChess.csproj" Description="Project file successfully backed up as D:\Files\FOSSProjects\XO\Backup\WinChess.csproj">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="WinChess.csproj.user" Description="Project user file successfully backed up as D:\Files\FOSSProjects\XO\Backup\WinChess.csproj.user">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="ChessBoard.cs" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\ChessBoard.cs">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="Form1.cs" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="XOGame.cs" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\XOGame.cs">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="XoGameGui.cs" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\XoGameGui.cs">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="App.ico" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="ChessBoard.resx" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\ChessBoard.resx">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="Form1.resx" Description="File successfully backed up as D:\Files\FOSSProjects\XO\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="WinChess.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WinChess" Source="WinChess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WinChess.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WinChess.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WinChess" Source="WinChess.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

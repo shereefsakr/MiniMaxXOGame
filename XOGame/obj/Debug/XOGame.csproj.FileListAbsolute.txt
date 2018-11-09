@@ -1,0 +1,8 @@
+D:\Files\FOSSProjects\XOGame\bin\Debug\WinChess.exe
+D:\Files\FOSSProjects\XOGame\bin\Debug\WinChess.pdb
+D:\Files\FOSSProjects\XOGame\obj\Debug\ResolveAssemblyReference.cache
+D:\Files\FOSSProjects\XOGame\obj\Debug\XOGame.Form1.resources
+D:\Files\FOSSProjects\XOGame\obj\Debug\GenerateResource.read.1.tlog
+D:\Files\FOSSProjects\XOGame\obj\Debug\GenerateResource.write.1.tlog
+D:\Files\FOSSProjects\XOGame\obj\Debug\WinChess.exe
+D:\Files\FOSSProjects\XOGame\obj\Debug\WinChess.pdb
